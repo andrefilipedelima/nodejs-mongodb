@@ -1,0 +1,17 @@
+{
+  "name": "understand-nodejs-aula-69",
+  "version": "1.0.0",
+  "description": "Aula sobre npm init, nodemon e package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
